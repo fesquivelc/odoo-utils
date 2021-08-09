@@ -35,7 +35,7 @@ python-dateutil==2.5.3
 python-stdnum==1.10
 pytz==2016.7
 pyusb==1.0.0
-pywin32==224
+pywin32==301
 qrcode==5.3
 reportlab==3.3.0
 requests==2.20.0
