@@ -37,7 +37,7 @@ pytz==2016.7
 pyusb==1.0.0
 pywin32==224
 qrcode==5.3
-reportlab==3.3.0
+reportlab==3.5.55
 requests==2.20.0
 six==1.12.0
 soupsieve==1.7.3
